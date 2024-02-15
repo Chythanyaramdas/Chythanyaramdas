@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1708009981/GitHub/njd8zwhq03c85xdybo1y.gif"  />
+  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1708009981/GitHub/njd8zwhq03c85xdybo1y.gif" />
 </div>
 
 ###
