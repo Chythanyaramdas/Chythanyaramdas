@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dx6zkoqmz/video/upload/v1708009745/Chythanya.gif_iuwyql.mp4"  />
+  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1708009981/GitHub/njd8zwhq03c85xdybo1y.gif"  />
 </div>
 
 ###
