@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/chythanya-ramdas-9969802b1/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=126ac5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:afsalafs8008@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <a href="mailto:cchythanyaramdas@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=eb4235&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 <!--   <a href="https://api.whatsapp.com/send/?phone=%2B916235448008&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
