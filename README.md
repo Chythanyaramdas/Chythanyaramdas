@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037227/GitHub/i64rmfnia73beube4slc.png" height="30" alt="tailwindcss logo"  />
+<!--   <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037227/GitHub/i64rmfnia73beube4slc.png" height="30" alt="tailwindcss logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -35,13 +35,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037226/GitHub/ppbv2xetqvp0fzyf9xm0.png" height="30" alt="express logo"  />
+<!--   <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037226/GitHub/ppbv2xetqvp0fzyf9xm0.png" height="30" alt="express logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037225/GitHub/bdbrqljncfgbouao4mq7.png" height="30" alt="socketio logo"  />
+<!--   <img src="https://res.cloudinary.com/cloudverse/image/upload/v1704037225/GitHub/bdbrqljncfgbouao4mq7.png" height="30" alt="socketio logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
